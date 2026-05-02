@@ -1,0 +1,15 @@
+/workspaces/pig-latin-ryandjfk/bin/Debug/net10.0/ConsoleTemplate
+/workspaces/pig-latin-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.deps.json
+/workspaces/pig-latin-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.runtimeconfig.json
+/workspaces/pig-latin-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.dll
+/workspaces/pig-latin-ryandjfk/bin/Debug/net10.0/ConsoleTemplate.pdb
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.AssemblyInfoInputs.cache
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.AssemblyInfo.cs
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.csproj.CoreCompileInputs.cache
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.sourcelink.json
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.dll
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/refint/ConsoleTemplate.dll
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.pdb
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ConsoleTemplate.genruntimeconfig.cache
+/workspaces/pig-latin-ryandjfk/obj/Debug/net10.0/ref/ConsoleTemplate.dll
